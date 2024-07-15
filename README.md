@@ -54,15 +54,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Design inspiration and guidance from [Myntra](https://www.myntra.com/).
 
 ## Author
-- Your Name
-- Contact Information
+- Team -byte bella 
 
-```
 
-### Additional Notes:
-- **Code of Conduct and Contribution Guidelines**: You may want to include separate markdown files (`CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`) for these sections and link to them in your readme.
-- **License**: Ensure to replace `LICENSE` with the actual license file if different.
-- **Credits**: Acknowledge any libraries, frameworks, or inspirations used in your project.
-- **Author**: Include your name and contact information for inquiries or support.
 
-Customize the sections based on your project's specifics and needs. This readme provides a comprehensive overview to help users understand, install, and contribute to your application effectively.
